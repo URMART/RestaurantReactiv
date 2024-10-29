@@ -1,0 +1,10 @@
+spring:
+  application:
+  name: application.bc
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/restaurant
+
+server:
+  port: 8000
